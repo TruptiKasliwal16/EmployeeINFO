@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "name": "abc x",
+      "username": "aab",
+      "email": "12@gmail.com",
+      "phone": "8989899991",
+      "website": "ab.com",
+      "salary": "40000",
+      "id": 1
+    },
+    {
+      "name": "xyz",
+      "username": "abcd",
+      "email": "1234@gmail.com",
+      "phone": "8498594588",
+      "website": "web.com",
+      "salary": "20000",
+      "id": 2
+    },
+    {
+      "name": "trupti",
+      "username": "tru",
+      "email": "t@gmail.com",
+      "phone": "7884983999",
+      "website": "tru.com",
+      "salary": "22000",
+      "id": 5
+    },
+    {
+      "name": "aa",
+      "username": "aa",
+      "email": "12@gmail.com",
+      "phone": "8989899990",
+      "website": "abc.com",
+      "salary": "233333",
+      "id": 6
+    },
+    {
+      "name": "aa",
+      "username": "aa",
+      "email": "12@gmail.com",
+      "phone": "8989899990",
+      "website": "abc.com",
+      "salary": "233333",
+      "id": 7
+    },
+    {
+      "name": "xyz",
+      "username": "aaa",
+      "email": "Sincere@april.biz",
+      "phone": "8989899991",
+      "website": "abc.com",
+      "salary": "233333",
+      "id": 8
+    }
+  ]
+}
